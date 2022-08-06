@@ -1,1 +1,1 @@
-hey everyone my new django pr
+hey everyone my new django project
