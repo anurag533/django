@@ -1,1 +1,1 @@
-hey everyone this is django`
+hey everyone my new django prject
